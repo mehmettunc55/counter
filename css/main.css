@@ -10,13 +10,14 @@
   min-height: 100vh;
 }
 body {
-  background: url("../img/mainBcg.jpeg") center/cover fixed no-repeat;
+  background: url("https://ae01.alicdn.com/kf/HTB1L9YWHFXXXXcAapXXq6xXFXXXy/B-y-k-duvar-resimleri-Kahve-salonu-restoran-tatl-d-kkan-ekmek-arka-plan-duvar-ka.jpg") center/cover fixed no-repeat;
   color: var(--mainWhite);
 }
 .main-container {
   border: 0.1rem solid var(--mainWhite);
-  box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
+  box-shadow: 0 0.9rem 0.5rem rgba(0, 0, 0, 0.3);
   border-radius: 0.2rem;
+  background: url("https://cdn.pixabay.com/photo/2020/07/29/08/33/coffee-5447420__480.jpg") center/cover fixed no-repeat;
 }
 #counter {
   color: var(--mainGreen);
