@@ -4,6 +4,7 @@
   --mainBlue: #0d2c54;
   --lightBlue: #00a6ed;
   --mainBlack: #333333;
+  --mainRed:red;
 }
 .max-height {
   min-height: 100vh;
@@ -29,8 +30,8 @@ body {
   color: var(--mainWhite);
 }
 .prevBtn:hover {
-  background: var(--lightBlue);
+  background: var(--mainRed);
 }
 .nextBtn:hover {
-  background: var(--lightBlue);
+  background: var(--mainGreen);
 }
